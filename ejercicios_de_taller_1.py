@@ -78,7 +78,7 @@ if puntuacion in [0.0, 0.4] or puntuacion >= 0.6:
 else:
     print("No se puede calcular la recompensa")
 
-# pregunta del ticket - Arcade
+# pregunta del ticket 
 
 edad = int(input("Ingresa tu edad: "))
 
